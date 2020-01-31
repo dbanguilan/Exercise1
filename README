@@ -1,0 +1,5 @@
+To run this script:
+
+./mymatrixbash.sh matrix1 matrix2 identity > result
+
+$$ the "result" file name will contain the output of the script
